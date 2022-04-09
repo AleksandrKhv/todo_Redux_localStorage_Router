@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+
+.headerApp {
+    color: darkblue;
+}
+
+.inputText, .inputSubmit {
+    border: solid 2px aquamarine;
+    border-radius: 4px;
+    color: darkblue;
+}
