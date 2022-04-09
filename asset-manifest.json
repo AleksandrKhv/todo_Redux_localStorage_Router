@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo_Redux_localStorage_Router/static/css/main.bbd5478e.css",
+    "main.js": "/todo_Redux_localStorage_Router/static/js/main.6c43acbf.js",
+    "index.html": "/todo_Redux_localStorage_Router/index.html",
+    "main.bbd5478e.css.map": "/todo_Redux_localStorage_Router/static/css/main.bbd5478e.css.map",
+    "main.6c43acbf.js.map": "/todo_Redux_localStorage_Router/static/js/main.6c43acbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbd5478e.css",
+    "static/js/main.6c43acbf.js"
+  ]
+}
